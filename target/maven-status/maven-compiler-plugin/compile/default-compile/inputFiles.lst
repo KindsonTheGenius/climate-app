@@ -1,0 +1,14 @@
+/Users/kindsonmunonye/Documents/SpringProjects/climateapp/src/main/java/com/kindsonthegenius/climateapp/ClimateappApplication.java
+/Users/kindsonmunonye/Documents/SpringProjects/climateapp/src/main/java/com/kindsonthegenius/climateapp/comments/Comment.java
+/Users/kindsonmunonye/Documents/SpringProjects/climateapp/src/main/java/com/kindsonthegenius/climateapp/users/UserService.java
+/Users/kindsonmunonye/Documents/SpringProjects/climateapp/src/main/java/com/kindsonthegenius/climateapp/users/UserRepository.java
+/Users/kindsonmunonye/Documents/SpringProjects/climateapp/src/main/java/com/kindsonthegenius/climateapp/comments/CommentService.java
+/Users/kindsonmunonye/Documents/SpringProjects/climateapp/src/main/java/com/kindsonthegenius/climateapp/users/User.java
+/Users/kindsonmunonye/Documents/SpringProjects/climateapp/src/main/java/com/kindsonthegenius/climateapp/users/UserController.java
+/Users/kindsonmunonye/Documents/SpringProjects/climateapp/src/main/java/com/kindsonthegenius/climateapp/posts/PostService.java
+/Users/kindsonmunonye/Documents/SpringProjects/climateapp/src/main/java/com/kindsonthegenius/climateapp/posts/Post.java
+/Users/kindsonmunonye/Documents/SpringProjects/climateapp/src/main/java/com/kindsonthegenius/climateapp/UIController.java
+/Users/kindsonmunonye/Documents/SpringProjects/climateapp/src/main/java/com/kindsonthegenius/climateapp/comments/CommentController.java
+/Users/kindsonmunonye/Documents/SpringProjects/climateapp/src/main/java/com/kindsonthegenius/climateapp/posts/PostController.java
+/Users/kindsonmunonye/Documents/SpringProjects/climateapp/src/main/java/com/kindsonthegenius/climateapp/comments/CommentRepository.java
+/Users/kindsonmunonye/Documents/SpringProjects/climateapp/src/main/java/com/kindsonthegenius/climateapp/posts/PostRepository.java
