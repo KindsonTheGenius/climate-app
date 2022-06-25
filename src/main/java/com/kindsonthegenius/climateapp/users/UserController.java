@@ -17,7 +17,7 @@ public class UserController {
     }
 
     @GetMapping("/users2")
-    public List<User> getUser2(){
+    public List<User> getUser3(){
         return userService.getUsers();
     }
 
